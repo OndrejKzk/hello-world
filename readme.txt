@@ -1,1 +1,2 @@
 New cool text
+Hello!
